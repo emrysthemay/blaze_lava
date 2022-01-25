@@ -1,0 +1,1 @@
+Datapack which adds a power to the blazeborn that increases swim speed and visibility in lava.
